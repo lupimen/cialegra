@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './images/cialegra-logo.jpeg';
 import './App.css';
 
 function App() {
